@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sprezzatura Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: white;
+    }
+    a {
+      text-decoration: none;
+      color: black;
+      font-size: 22px;
+      margin: 10px 0;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://cmh03325s063n01jh34uf3dxo.wuiltstore.com/ar/shop?fbclid=IwdGRjcANt3vZleHRuA2FlbQIxMAABHj-nKdtJwQ_0zrnQMgc3sUxnXW3avrd4KUWxPT7bMGB0KPCjJv6A9Teoe3z1_aem_yR43YAN5RKutsPAc6cD8_w" target="_blank">🛒 Our Store</a>
+  <a href="https://www.facebook.com/share/1CWiYAm2xD/" target="_blank">Facebook</a>
+  <a href="https://www.instagram.com/sprezzatura.clothes" target="_blank">Instagram</a>
+</body>
+</html>
